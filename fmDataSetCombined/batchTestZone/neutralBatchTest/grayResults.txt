@@ -1,0 +1,150 @@
+original-103-neutral.jpg
+RUNNING AGAINST: original-103-neutral.jpg-- 0.5
+Tol: 0.5 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-82-neutral.jpg
+RUNNING AGAINST: original-82-neutral.jpg-- 0.51
+Tol: 0.51 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-122-neutral.jpg
+RUNNING AGAINST: original-122-neutral.jpg-- 0.52
+Tol: 0.52 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-17-neutral.jpg
+RUNNING AGAINST: original-17-neutral.jpg-- 0.53
+Tol: 0.53 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-40-neutral.jpg
+RUNNING AGAINST: original-40-neutral.jpg-- 0.54
+Tol: 0.54 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-175-neutral.jpg
+RUNNING AGAINST: original-175-neutral.jpg-- 0.55
+Tol: 0.55 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-180-neutral.jpg
+RUNNING AGAINST: original-180-neutral.jpg-- 0.56
+Tol: 0.56 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-190-neutral.jpg
+RUNNING AGAINST: original-190-neutral.jpg-- 0.57
+Tol: 0.57 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-7-neutral.jpg
+RUNNING AGAINST: original-7-neutral.jpg-- 0.58
+Tol: 0.58 | {'fP': 1, 'tP': 1, 'fN': 0, 'tN': 198}
+original-61-neutral.jpg
+RUNNING AGAINST: original-61-neutral.jpg-- 0.59
+Tol: 0.59 | {'fP': 5, 'tP': 1, 'fN': 0, 'tN': 194}
+original-151-neutral.jpg
+RUNNING AGAINST: original-151-neutral.jpg-- 0.6
+Tol: 0.6 | {'fP': 8, 'tP': 1, 'fN': 0, 'tN': 191}
+original-175-neutral.jpg
+RUNNING AGAINST: original-175-neutral.jpg-- 0.61
+Tol: 0.61 | {'fP': 10, 'tP': 1, 'fN': 0, 'tN': 189}
+original-118-neutral.jpg
+RUNNING AGAINST: original-118-neutral.jpg-- 0.62
+Tol: 0.62 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-165-neutral.jpg
+RUNNING AGAINST: original-165-neutral.jpg-- 0.63
+Tol: 0.63 | {'fP': 3, 'tP': 1, 'fN': 0, 'tN': 196}
+original-38-neutral.jpg
+RUNNING AGAINST: original-38-neutral.jpg-- 0.64
+Tol: 0.64 | {'fP': 4, 'tP': 1, 'fN': 0, 'tN': 195}
+original-184-neutral.jpg
+RUNNING AGAINST: original-184-neutral.jpg-- 0.65
+Tol: 0.65 | {'fP': 13, 'tP': 1, 'fN': 0, 'tN': 186}
+original-96-neutral.jpg
+RUNNING AGAINST: original-96-neutral.jpg-- 0.66
+Tol: 0.66 | {'fP': 21, 'tP': 1, 'fN': 0, 'tN': 178}
+original-115-neutral.jpg
+RUNNING AGAINST: original-115-neutral.jpg-- 0.67
+Tol: 0.67 | {'fP': 11, 'tP': 1, 'fN': 0, 'tN': 188}
+original-169-neutral.jpg
+RUNNING AGAINST: original-169-neutral.jpg-- 0.68
+Tol: 0.68 | {'fP': 13, 'tP': 1, 'fN': 0, 'tN': 186}
+original-104-neutral.jpg
+RUNNING AGAINST: original-104-neutral.jpg-- 0.69
+Tol: 0.69 | {'fP': 21, 'tP': 1, 'fN': 0, 'tN': 178}
+original-154-neutral.jpg
+RUNNING AGAINST: original-154-neutral.jpg-- 0.7
+Tol: 0.7 | {'fP': 20, 'tP': 1, 'fN': 0, 'tN': 179}
+original-169-neutral.jpg
+RUNNING AGAINST: original-169-neutral.jpg-- 0.71
+Tol: 0.71 | {'fP': 29, 'tP': 1, 'fN': 0, 'tN': 170}
+original-154-neutral.jpg
+RUNNING AGAINST: original-154-neutral.jpg-- 0.72
+Tol: 0.72 | {'fP': 29, 'tP': 1, 'fN': 0, 'tN': 170}
+original-157-neutral.jpg
+RUNNING AGAINST: original-157-neutral.jpg-- 0.73
+Tol: 0.73 | {'fP': 17, 'tP': 1, 'fN': 0, 'tN': 182}
+original-14-neutral.jpg
+RUNNING AGAINST: original-14-neutral.jpg-- 0.74
+Tol: 0.74 | {'fP': 67, 'tP': 1, 'fN': 0, 'tN': 132}
+original-160-neutral.jpg
+RUNNING AGAINST: original-160-neutral.jpg-- 0.75
+Tol: 0.75 | {'fP': 113, 'tP': 1, 'fN': 0, 'tN': 86}
+original-19-neutral.jpg
+RUNNING AGAINST: original-19-neutral.jpg-- 0.76
+Tol: 0.76 | {'fP': 41, 'tP': 1, 'fN': 0, 'tN': 158}
+original-35-neutral.jpg
+RUNNING AGAINST: original-35-neutral.jpg-- 0.77
+Tol: 0.77 | {'fP': 82, 'tP': 1, 'fN': 0, 'tN': 117}
+original-58-neutral.jpg
+RUNNING AGAINST: original-58-neutral.jpg-- 0.78
+Tol: 0.78 | {'fP': 124, 'tP': 1, 'fN': 0, 'tN': 75}
+original-120-neutral.jpg
+RUNNING AGAINST: original-120-neutral.jpg-- 0.79
+Tol: 0.79 | {'fP': 78, 'tP': 1, 'fN': 0, 'tN': 121}
+original-108-neutral.jpg
+RUNNING AGAINST: original-108-neutral.jpg-- 0.8
+Tol: 0.8 | {'fP': 102, 'tP': 1, 'fN': 0, 'tN': 97}
+original-124-neutral.jpg
+RUNNING AGAINST: original-124-neutral.jpg-- 0.81
+Tol: 0.81 | {'fP': 122, 'tP': 1, 'fN': 0, 'tN': 77}
+original-109-neutral.jpg
+RUNNING AGAINST: original-109-neutral.jpg-- 0.82
+Tol: 0.82 | {'fP': 147, 'tP': 1, 'fN': 0, 'tN': 52}
+original-33-neutral.jpg
+RUNNING AGAINST: original-33-neutral.jpg-- 0.83
+Tol: 0.83 | {'fP': 154, 'tP': 1, 'fN': 0, 'tN': 45}
+original-29-neutral.jpg
+RUNNING AGAINST: original-29-neutral.jpg-- 0.84
+Tol: 0.84 | {'fP': 116, 'tP': 1, 'fN': 0, 'tN': 83}
+original-133-neutral.jpg
+RUNNING AGAINST: original-133-neutral.jpg-- 0.85
+Tol: 0.85 | {'fP': 177, 'tP': 1, 'fN': 0, 'tN': 22}
+original-107-neutral.jpg
+RUNNING AGAINST: original-107-neutral.jpg-- 0.86
+Tol: 0.86 | {'fP': 164, 'tP': 1, 'fN': 0, 'tN': 35}
+original-172-neutral.jpg
+RUNNING AGAINST: original-172-neutral.jpg-- 0.87
+Tol: 0.87 | {'fP': 131, 'tP': 1, 'fN': 0, 'tN': 68}
+original-171-neutral.jpg
+RUNNING AGAINST: original-171-neutral.jpg-- 0.88
+Tol: 0.88 | {'fP': 185, 'tP': 1, 'fN': 0, 'tN': 14}
+original-142-neutral.jpg
+RUNNING AGAINST: original-142-neutral.jpg-- 0.89
+Tol: 0.89 | {'fP': 170, 'tP': 1, 'fN': 0, 'tN': 29}
+original-9-neutral.jpg
+RUNNING AGAINST: original-9-neutral.jpg-- 0.9
+Tol: 0.9 | {'fP': 190, 'tP': 1, 'fN': 0, 'tN': 9}
+original-23-neutral.jpg
+RUNNING AGAINST: original-23-neutral.jpg-- 0.91
+Tol: 0.91 | {'fP': 156, 'tP': 1, 'fN': 0, 'tN': 43}
+original-63-neutral.jpg
+RUNNING AGAINST: original-63-neutral.jpg-- 0.92
+Tol: 0.92 | {'fP': 193, 'tP': 1, 'fN': 0, 'tN': 6}
+original-187-neutral.jpg
+RUNNING AGAINST: original-187-neutral.jpg-- 0.93
+Tol: 0.93 | {'fP': 194, 'tP': 1, 'fN': 0, 'tN': 5}
+original-127-neutral.jpg
+RUNNING AGAINST: original-127-neutral.jpg-- 0.94
+Tol: 0.94 | {'fP': 197, 'tP': 1, 'fN': 0, 'tN': 2}
+original-167-neutral.jpg
+RUNNING AGAINST: original-167-neutral.jpg-- 0.95
+Tol: 0.95 | {'fP': 197, 'tP': 1, 'fN': 0, 'tN': 2}
+original-94-neutral.jpg
+RUNNING AGAINST: original-94-neutral.jpg-- 0.96
+Tol: 0.96 | {'fP': 195, 'tP': 1, 'fN': 0, 'tN': 4}
+original-79-neutral.jpg
+RUNNING AGAINST: original-79-neutral.jpg-- 0.97
+Tol: 0.97 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+original-149-neutral.jpg
+RUNNING AGAINST: original-149-neutral.jpg-- 0.98
+Tol: 0.98 | {'fP': 198, 'tP': 1, 'fN': 0, 'tN': 1}
+original-173-neutral.jpg
+RUNNING AGAINST: original-173-neutral.jpg-- 0.99
+Tol: 0.99 | {'fP': 198, 'tP': 1, 'fN': 0, 'tN': 1}

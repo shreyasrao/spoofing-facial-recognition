@@ -1,0 +1,136 @@
+original-175-smile.jpg
+RUNNING AGAINST: original-175-smile.jpg-- 0.55
+Tol: 0.55 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-180-smile.jpg
+RUNNING AGAINST: original-180-smile.jpg-- 0.56
+Tol: 0.56 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-190-smile.jpg
+RUNNING AGAINST: original-190-smile.jpg-- 0.57
+Tol: 0.57 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-7-smile.jpg
+RUNNING AGAINST: original-7-smile.jpg-- 0.58
+Tol: 0.58 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-61-smile.jpg
+RUNNING AGAINST: original-61-smile.jpg-- 0.59
+Tol: 0.59 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 199}
+original-151-smile.jpg
+RUNNING AGAINST: original-151-smile.jpg-- 0.6
+Tol: 0.6 | {'fP': 1, 'tP': 1, 'fN': 0, 'tN': 198}
+original-175-smile.jpg
+RUNNING AGAINST: original-175-smile.jpg-- 0.61
+Tol: 0.61 | {'fP': 3, 'tP': 1, 'fN': 0, 'tN': 196}
+original-118-smile.jpg
+RUNNING AGAINST: original-118-smile.jpg-- 0.62
+Tol: 0.62 | {'fP': 6, 'tP': 1, 'fN': 0, 'tN': 193}
+original-165-smile.jpg
+RUNNING AGAINST: original-165-smile.jpg-- 0.63
+Tol: 0.63 | {'fP': 3, 'tP': 1, 'fN': 0, 'tN': 196}
+original-38-smile.jpg
+RUNNING AGAINST: original-38-smile.jpg-- 0.64
+Tol: 0.64 | {'fP': 1, 'tP': 1, 'fN': 0, 'tN': 198}
+original-184-smile.jpg
+RUNNING AGAINST: original-184-smile.jpg-- 0.65
+Tol: 0.65 | {'fP': 11, 'tP': 1, 'fN': 0, 'tN': 188}
+original-96-smile.jpg
+RUNNING AGAINST: original-96-smile.jpg-- 0.66
+Tol: 0.66 | {'fP': 3, 'tP': 1, 'fN': 0, 'tN': 196}
+original-115-smile.jpg
+RUNNING AGAINST: original-115-smile.jpg-- 0.67
+Tol: 0.67 | {'fP': 15, 'tP': 1, 'fN': 0, 'tN': 184}
+original-169-smile.jpg
+RUNNING AGAINST: original-169-smile.jpg-- 0.68
+Tol: 0.68 | {'fP': 11, 'tP': 1, 'fN': 0, 'tN': 188}
+original-104-smile.jpg
+RUNNING AGAINST: original-104-smile.jpg-- 0.69
+Tol: 0.69 | {'fP': 33, 'tP': 1, 'fN': 0, 'tN': 166}
+original-154-smile.jpg
+RUNNING AGAINST: original-154-smile.jpg-- 0.7
+Tol: 0.7 | {'fP': 20, 'tP': 1, 'fN': 0, 'tN': 179}
+original-169-smile.jpg
+RUNNING AGAINST: original-169-smile.jpg-- 0.71
+Tol: 0.71 | {'fP': 26, 'tP': 1, 'fN': 0, 'tN': 173}
+original-154-smile.jpg
+RUNNING AGAINST: original-154-smile.jpg-- 0.72
+Tol: 0.72 | {'fP': 35, 'tP': 1, 'fN': 0, 'tN': 164}
+original-157-smile.jpg
+RUNNING AGAINST: original-157-smile.jpg-- 0.73
+Tol: 0.73 | {'fP': 27, 'tP': 1, 'fN': 0, 'tN': 172}
+original-14-smile.jpg
+RUNNING AGAINST: original-14-smile.jpg-- 0.74
+Tol: 0.74 | {'fP': 63, 'tP': 1, 'fN': 0, 'tN': 136}
+original-160-smile.jpg
+RUNNING AGAINST: original-160-smile.jpg-- 0.75
+Tol: 0.75 | {'fP': 111, 'tP': 1, 'fN': 0, 'tN': 88}
+original-19-smile.jpg
+RUNNING AGAINST: original-19-smile.jpg-- 0.76
+Tol: 0.76 | {'fP': 46, 'tP': 1, 'fN': 0, 'tN': 153}
+original-35-smile.jpg
+RUNNING AGAINST: original-35-smile.jpg-- 0.77
+Tol: 0.77 | {'fP': 86, 'tP': 1, 'fN': 0, 'tN': 113}
+original-58-smile.jpg
+RUNNING AGAINST: original-58-smile.jpg-- 0.78
+Tol: 0.78 | {'fP': 77, 'tP': 1, 'fN': 0, 'tN': 122}
+original-120-smile.jpg
+RUNNING AGAINST: original-120-smile.jpg-- 0.79
+Tol: 0.79 | {'fP': 103, 'tP': 1, 'fN': 0, 'tN': 96}
+original-108-smile.jpg
+RUNNING AGAINST: original-108-smile.jpg-- 0.8
+Tol: 0.8 | {'fP': 103, 'tP': 1, 'fN': 0, 'tN': 96}
+original-124-smile.jpg
+RUNNING AGAINST: original-124-smile.jpg-- 0.81
+Tol: 0.81 | {'fP': 133, 'tP': 1, 'fN': 0, 'tN': 66}
+original-109-smile.jpg
+RUNNING AGAINST: original-109-smile.jpg-- 0.82
+Tol: 0.82 | {'fP': 121, 'tP': 1, 'fN': 0, 'tN': 78}
+original-33-smile.jpg
+RUNNING AGAINST: original-33-smile.jpg-- 0.83
+Tol: 0.83 | {'fP': 149, 'tP': 1, 'fN': 0, 'tN': 50}
+original-29-smile.jpg
+RUNNING AGAINST: original-29-smile.jpg-- 0.84
+Tol: 0.84 | {'fP': 125, 'tP': 1, 'fN': 0, 'tN': 74}
+original-133-smile.jpg
+RUNNING AGAINST: original-133-smile.jpg-- 0.85
+Tol: 0.85 | {'fP': 175, 'tP': 1, 'fN': 0, 'tN': 24}
+original-107-smile.jpg
+RUNNING AGAINST: original-107-smile.jpg-- 0.86
+Tol: 0.86 | {'fP': 176, 'tP': 1, 'fN': 0, 'tN': 23}
+original-172-smile.jpg
+RUNNING AGAINST: original-172-smile.jpg-- 0.87
+Tol: 0.87 | {'fP': 131, 'tP': 1, 'fN': 0, 'tN': 68}
+original-171-smile.jpg
+RUNNING AGAINST: original-171-smile.jpg-- 0.88
+Tol: 0.88 | {'fP': 177, 'tP': 1, 'fN': 0, 'tN': 22}
+original-142-smile.jpg
+RUNNING AGAINST: original-142-smile.jpg-- 0.89
+Tol: 0.89 | {'fP': 183, 'tP': 1, 'fN': 0, 'tN': 16}
+original-9-smile.jpg
+RUNNING AGAINST: original-9-smile.jpg-- 0.9
+Tol: 0.9 | {'fP': 189, 'tP': 1, 'fN': 0, 'tN': 10}
+original-23-smile.jpg
+RUNNING AGAINST: original-23-smile.jpg-- 0.91
+Tol: 0.91 | {'fP': 170, 'tP': 1, 'fN': 0, 'tN': 29}
+original-63-smile.jpg
+RUNNING AGAINST: original-63-smile.jpg-- 0.92
+Tol: 0.92 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+original-187-smile.jpg
+RUNNING AGAINST: original-187-smile.jpg-- 0.93
+Tol: 0.93 | {'fP': 196, 'tP': 1, 'fN': 0, 'tN': 3}
+original-127-smile.jpg
+RUNNING AGAINST: original-127-smile.jpg-- 0.94
+Tol: 0.94 | {'fP': 198, 'tP': 1, 'fN': 0, 'tN': 1}
+original-167-smile.jpg
+RUNNING AGAINST: original-167-smile.jpg-- 0.95
+Tol: 0.95 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+original-94-smile.jpg
+RUNNING AGAINST: original-94-smile.jpg-- 0.96
+Tol: 0.96 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+original-79-smile.jpg
+RUNNING AGAINST: original-79-smile.jpg-- 0.97
+Tol: 0.97 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+original-149-smile.jpg
+RUNNING AGAINST: original-149-smile.jpg-- 0.98
+Tol: 0.98 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+original-173-smile.jpg
+RUNNING AGAINST: original-173-smile.jpg-- 0.99
+Tol: 0.99 | {'fP': 199, 'tP': 1, 'fN': 0, 'tN': 0}
+

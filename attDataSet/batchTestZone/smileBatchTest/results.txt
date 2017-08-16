@@ -1,0 +1,300 @@
+original-s28-neutral-1.jpg
+RUNNING AGAINST: original-s28-neutral-1.jpg-- 0.0
+Tol: 0.0 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s20-smile-1.jpg
+RUNNING AGAINST: original-s20-smile-1.jpg-- 0.01
+Tol: 0.01 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s40-smile-2.jpg
+RUNNING AGAINST: original-s40-smile-2.jpg-- 0.02
+Tol: 0.02 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s5-smile-2.jpg
+RUNNING AGAINST: original-s5-smile-2.jpg-- 0.03
+Tol: 0.03 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s22-smile-5.jpg
+RUNNING AGAINST: original-s22-smile-5.jpg-- 0.04
+Tol: 0.04 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s35-smile-10.jpg
+RUNNING AGAINST: original-s35-smile-10.jpg-- 0.05
+Tol: 0.05 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s9-neutral-8.jpg
+RUNNING AGAINST: original-s9-neutral-8.jpg-- 0.06
+Tol: 0.06 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s29-neutral-4.jpg
+RUNNING AGAINST: original-s29-neutral-4.jpg-- 0.07
+Tol: 0.07 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s3-smile-7.jpg
+RUNNING AGAINST: original-s3-smile-7.jpg-- 0.08
+Tol: 0.08 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s12-smile-10.jpg
+RUNNING AGAINST: original-s12-smile-10.jpg-- 0.09
+Tol: 0.09 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s1-neutral-1.jpg
+RUNNING AGAINST: original-s1-neutral-1.jpg-- 0.1
+Tol: 0.1 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s23-smile-1.jpg
+RUNNING AGAINST: original-s23-smile-1.jpg-- 0.11
+Tol: 0.11 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s10-smile-1.jpg
+RUNNING AGAINST: original-s10-smile-1.jpg-- 0.12
+Tol: 0.12 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s7-smile-2.jpg
+RUNNING AGAINST: original-s7-smile-2.jpg-- 0.13
+Tol: 0.13 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s40-smile-2.jpg
+RUNNING AGAINST: original-s40-smile-2.jpg-- 0.14
+Tol: 0.14 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s30-smile-10.jpg
+RUNNING AGAINST: original-s30-smile-10.jpg-- 0.15
+Tol: 0.15 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s18-smile-4.jpg
+RUNNING AGAINST: original-s18-smile-4.jpg-- 0.16
+Tol: 0.16 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s30-smile-10.jpg
+RUNNING AGAINST: original-s30-smile-10.jpg-- 0.17
+Tol: 0.17 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s24-smile-5.jpg
+RUNNING AGAINST: original-s24-smile-5.jpg-- 0.18
+Tol: 0.18 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.19
+Tol: 0.19 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s4-neutral-4.jpg
+RUNNING AGAINST: original-s4-neutral-4.jpg-- 0.2
+Tol: 0.2 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s23-smile-1.jpg
+RUNNING AGAINST: original-s23-smile-1.jpg-- 0.21
+Tol: 0.21 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s15-smile-7.jpg
+RUNNING AGAINST: original-s15-smile-7.jpg-- 0.22
+Tol: 0.22 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s27-smile-2.jpg
+RUNNING AGAINST: original-s27-smile-2.jpg-- 0.23
+Tol: 0.23 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s20-smile-1.jpg
+RUNNING AGAINST: original-s20-smile-1.jpg-- 0.24
+Tol: 0.24 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s33-smile-5.jpg
+RUNNING AGAINST: original-s33-smile-5.jpg-- 0.25
+Tol: 0.25 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s16-smile-5.jpg
+RUNNING AGAINST: original-s16-smile-5.jpg-- 0.26
+Tol: 0.26 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s35-smile-10.jpg
+RUNNING AGAINST: original-s35-smile-10.jpg-- 0.27
+Tol: 0.27 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s24-smile-5.jpg
+RUNNING AGAINST: original-s24-smile-5.jpg-- 0.28
+Tol: 0.28 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s40-smile-2.jpg
+RUNNING AGAINST: original-s40-smile-2.jpg-- 0.29
+Tol: 0.29 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s17-smile-4.jpg
+RUNNING AGAINST: original-s17-smile-4.jpg-- 0.3
+Tol: 0.3 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s6-smile-2.jpg
+RUNNING AGAINST: original-s6-smile-2.jpg-- 0.31
+Tol: 0.31 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s21-smile-1.jpg
+RUNNING AGAINST: original-s21-smile-1.jpg-- 0.32
+Tol: 0.32 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s35-smile-10.jpg
+RUNNING AGAINST: original-s35-smile-10.jpg-- 0.33
+Tol: 0.33 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.34
+Tol: 0.34 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s22-smile-5.jpg
+RUNNING AGAINST: original-s22-smile-5.jpg-- 0.35
+Tol: 0.35 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s6-smile-2.jpg
+RUNNING AGAINST: original-s6-smile-2.jpg-- 0.36
+Tol: 0.36 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s21-smile-1.jpg
+RUNNING AGAINST: original-s21-smile-1.jpg-- 0.37
+Tol: 0.37 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.38
+Tol: 0.38 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s9-neutral-8.jpg
+RUNNING AGAINST: original-s9-neutral-8.jpg-- 0.39
+Tol: 0.39 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s4-neutral-4.jpg
+RUNNING AGAINST: original-s4-neutral-4.jpg-- 0.4
+Tol: 0.4 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s36-smile-1.jpg
+RUNNING AGAINST: original-s36-smile-1.jpg-- 0.41
+Tol: 0.41 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s21-smile-1.jpg
+RUNNING AGAINST: original-s21-smile-1.jpg-- 0.42
+Tol: 0.42 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s40-smile-2.jpg
+RUNNING AGAINST: original-s40-smile-2.jpg-- 0.43
+Tol: 0.43 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s13-smile-10.jpg
+RUNNING AGAINST: original-s13-smile-10.jpg-- 0.44
+Tol: 0.44 | {'fP': 0, 'tP': 1, 'fN': 1, 'tN': 38}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.45
+Tol: 0.45 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s21-smile-1.jpg
+RUNNING AGAINST: original-s21-smile-1.jpg-- 0.46
+Tol: 0.46 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s16-smile-5.jpg
+RUNNING AGAINST: original-s16-smile-5.jpg-- 0.47
+Tol: 0.47 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s25-smile-10.jpg
+RUNNING AGAINST: original-s25-smile-10.jpg-- 0.48
+Tol: 0.48 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s30-smile-10.jpg
+RUNNING AGAINST: original-s30-smile-10.jpg-- 0.49
+Tol: 0.49 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s29-neutral-4.jpg
+RUNNING AGAINST: original-s29-neutral-4.jpg-- 0.5
+Tol: 0.5 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s15-smile-7.jpg
+RUNNING AGAINST: original-s15-smile-7.jpg-- 0.51
+Tol: 0.51 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s24-smile-5.jpg
+RUNNING AGAINST: original-s24-smile-5.jpg-- 0.52
+Tol: 0.52 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s13-smile-10.jpg
+RUNNING AGAINST: original-s13-smile-10.jpg-- 0.53
+Tol: 0.53 | {'fP': 1, 'tP': 2, 'fN': 0, 'tN': 37}
+original-s20-smile-1.jpg
+RUNNING AGAINST: original-s20-smile-1.jpg-- 0.54
+Tol: 0.54 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s12-smile-10.jpg
+RUNNING AGAINST: original-s12-smile-10.jpg-- 0.55
+Tol: 0.55 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.56
+Tol: 0.56 | {'fP': 1, 'tP': 1, 'fN': 0, 'tN': 38}
+original-s32-smile-4.jpg
+RUNNING AGAINST: original-s32-smile-4.jpg-- 0.57
+Tol: 0.57 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s38-smile-2.jpg
+RUNNING AGAINST: original-s38-smile-2.jpg-- 0.58
+Tol: 0.58 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s29-neutral-4.jpg
+RUNNING AGAINST: original-s29-neutral-4.jpg-- 0.59
+Tol: 0.59 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s12-smile-10.jpg
+RUNNING AGAINST: original-s12-smile-10.jpg-- 0.6
+Tol: 0.6 | {'fP': 2, 'tP': 1, 'fN': 0, 'tN': 37}
+original-s30-smile-10.jpg
+RUNNING AGAINST: original-s30-smile-10.jpg-- 0.61
+Tol: 0.61 | {'fP': 1, 'tP': 1, 'fN': 0, 'tN': 38}
+original-s7-smile-2.jpg
+RUNNING AGAINST: original-s7-smile-2.jpg-- 0.62
+Tol: 0.62 | {'fP': 2, 'tP': 1, 'fN': 0, 'tN': 37}
+original-s40-smile-2.jpg
+RUNNING AGAINST: original-s40-smile-2.jpg-- 0.63
+Tol: 0.63 | {'fP': 0, 'tP': 1, 'fN': 0, 'tN': 39}
+original-s27-smile-2.jpg
+RUNNING AGAINST: original-s27-smile-2.jpg-- 0.64
+Tol: 0.64 | {'fP': 3, 'tP': 1, 'fN': 0, 'tN': 36}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.65
+Tol: 0.65 | {'fP': 5, 'tP': 1, 'fN': 0, 'tN': 34}
+original-s14-smile-8.jpg
+RUNNING AGAINST: original-s14-smile-8.jpg-- 0.66
+Tol: 0.66 | {'fP': 10, 'tP': 1, 'fN': 0, 'tN': 29}
+original-s18-smile-4.jpg
+RUNNING AGAINST: original-s18-smile-4.jpg-- 0.67
+Tol: 0.67 | {'fP': 4, 'tP': 1, 'fN': 0, 'tN': 35}
+original-s3-smile-7.jpg
+RUNNING AGAINST: original-s3-smile-7.jpg-- 0.68
+Tol: 0.68 | {'fP': 6, 'tP': 1, 'fN': 0, 'tN': 33}
+original-s8-smile-7.jpg
+RUNNING AGAINST: original-s8-smile-7.jpg-- 0.69
+Tol: 0.69 | {'fP': 1, 'tP': 1, 'fN': 0, 'tN': 38}
+original-s6-smile-2.jpg
+RUNNING AGAINST: original-s6-smile-2.jpg-- 0.7
+Tol: 0.7 | {'fP': 13, 'tP': 1, 'fN': 0, 'tN': 26}
+original-s18-smile-4.jpg
+RUNNING AGAINST: original-s18-smile-4.jpg-- 0.71
+Tol: 0.71 | {'fP': 9, 'tP': 1, 'fN': 0, 'tN': 30}
+original-s26-smile-9.jpg
+RUNNING AGAINST: original-s26-smile-9.jpg-- 0.72
+Tol: 0.72 | {'fP': 8, 'tP': 1, 'fN': 0, 'tN': 31}
+original-s10-smile-1.jpg
+RUNNING AGAINST: original-s10-smile-1.jpg-- 0.73
+Tol: 0.73 | {'fP': 5, 'tP': 1, 'fN': 0, 'tN': 34}
+original-s13-smile-10.jpg
+RUNNING AGAINST: original-s13-smile-10.jpg-- 0.74
+Tol: 0.74 | {'fP': 20, 'tP': 2, 'fN': 0, 'tN': 18}
+original-s3-smile-7.jpg
+RUNNING AGAINST: original-s3-smile-7.jpg-- 0.75
+Tol: 0.75 | {'fP': 23, 'tP': 1, 'fN': 0, 'tN': 16}
+original-s28-neutral-1.jpg
+RUNNING AGAINST: original-s28-neutral-1.jpg-- 0.76
+Tol: 0.76 | {'fP': 15, 'tP': 1, 'fN': 0, 'tN': 24}
+original-s2-smile-1.jpg
+RUNNING AGAINST: original-s2-smile-1.jpg-- 0.77
+Tol: 0.77 | {'fP': 27, 'tP': 1, 'fN': 0, 'tN': 12}
+original-s2-smile-1.jpg
+RUNNING AGAINST: original-s2-smile-1.jpg-- 0.78
+Tol: 0.78 | {'fP': 29, 'tP': 1, 'fN': 0, 'tN': 10}
+original-s10-smile-1.jpg
+RUNNING AGAINST: original-s10-smile-1.jpg-- 0.79
+Tol: 0.79 | {'fP': 15, 'tP': 1, 'fN': 0, 'tN': 24}
+original-s12-smile-10.jpg
+RUNNING AGAINST: original-s12-smile-10.jpg-- 0.8
+Tol: 0.8 | {'fP': 34, 'tP': 1, 'fN': 0, 'tN': 5}
+original-s3-smile-7.jpg
+RUNNING AGAINST: original-s3-smile-7.jpg-- 0.81
+Tol: 0.81 | {'fP': 34, 'tP': 1, 'fN': 0, 'tN': 5}
+original-s7-smile-2.jpg
+RUNNING AGAINST: original-s7-smile-2.jpg-- 0.82
+Tol: 0.82 | {'fP': 36, 'tP': 1, 'fN': 0, 'tN': 3}
+original-s8-smile-7.jpg
+RUNNING AGAINST: original-s8-smile-7.jpg-- 0.83
+Tol: 0.83 | {'fP': 14, 'tP': 1, 'fN': 0, 'tN': 25}
+original-s38-smile-2.jpg
+RUNNING AGAINST: original-s38-smile-2.jpg-- 0.84
+Tol: 0.84 | {'fP': 37, 'tP': 1, 'fN': 0, 'tN': 2}
+original-s17-smile-4.jpg
+RUNNING AGAINST: original-s17-smile-4.jpg-- 0.85
+Tol: 0.85 | {'fP': 35, 'tP': 1, 'fN': 0, 'tN': 4}
+original-s26-smile-9.jpg
+RUNNING AGAINST: original-s26-smile-9.jpg-- 0.86
+Tol: 0.86 | {'fP': 36, 'tP': 1, 'fN': 0, 'tN': 3}
+original-s16-smile-5.jpg
+RUNNING AGAINST: original-s16-smile-5.jpg-- 0.87
+Tol: 0.87 | {'fP': 37, 'tP': 1, 'fN': 0, 'tN': 2}
+original-s9-neutral-8.jpg
+RUNNING AGAINST: original-s9-neutral-8.jpg-- 0.88
+Tol: 0.88 | {'fP': 38, 'tP': 1, 'fN': 0, 'tN': 1}
+original-s40-smile-2.jpg
+RUNNING AGAINST: original-s40-smile-2.jpg-- 0.89
+Tol: 0.89 | {'fP': 38, 'tP': 1, 'fN': 0, 'tN': 1}
+original-s16-smile-5.jpg
+RUNNING AGAINST: original-s16-smile-5.jpg-- 0.9
+Tol: 0.9 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s33-smile-5.jpg
+RUNNING AGAINST: original-s33-smile-5.jpg-- 0.91
+Tol: 0.91 | {'fP': 35, 'tP': 1, 'fN': 0, 'tN': 4}
+original-s23-smile-1.jpg
+RUNNING AGAINST: original-s23-smile-1.jpg-- 0.92
+Tol: 0.92 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s6-smile-2.jpg
+RUNNING AGAINST: original-s6-smile-2.jpg-- 0.93
+Tol: 0.93 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s6-smile-2.jpg
+RUNNING AGAINST: original-s6-smile-2.jpg-- 0.94
+Tol: 0.94 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s38-smile-2.jpg
+RUNNING AGAINST: original-s38-smile-2.jpg-- 0.95
+Tol: 0.95 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.96
+Tol: 0.96 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s23-smile-1.jpg
+RUNNING AGAINST: original-s23-smile-1.jpg-- 0.97
+Tol: 0.97 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s33-smile-5.jpg
+RUNNING AGAINST: original-s33-smile-5.jpg-- 0.98
+Tol: 0.98 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
+original-s37-smile-8.jpg
+RUNNING AGAINST: original-s37-smile-8.jpg-- 0.99
+Tol: 0.99 | {'fP': 39, 'tP': 1, 'fN': 0, 'tN': 0}
